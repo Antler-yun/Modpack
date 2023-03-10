@@ -1,6 +1,7 @@
 # 简介
 这一个简单的Mincraft整合包用于快速开始游戏，包含基础的配置
-[Github仓库](https://github.com/Antler-yun/Modpack)[Gtiee镜像仓库](https://gitee.com/antler-yun/Modpack)
+# 
+[Github仓库](https://github.com/Antler-yun/Modpack) [Gtiee镜像仓库](https://gitee.com/antler-yun/Modpack)
 ## 模组列表
 
 这里列举了所有mod的名字与简单介绍。
