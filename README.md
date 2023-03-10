@@ -40,5 +40,5 @@
 - CIT Resewn
 - Continuity
 
-###附录
+### 附录
 推荐使用[HMCL](https://hmcl.huangyuhui.net/)启动器
