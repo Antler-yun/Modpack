@@ -1,29 +1,29 @@
 # 简介
 这一个简单的整合包用于快速开始游戏，包含基础的配置
 
-##模组列表
+## 模组列表
 
 这里列举了所有mod的名字与简单介绍。
-##前置mod
+## 前置mod
 
 - Fabric API
 - Fabric Language Kotlin
 - architectury
 - cloth-config
-##显示优化类
+## 显示优化类
 
 - Apple Skin
 - Lambdnamiclights
 - BetterF3
 - What The Hell Is That
-##性能优化类
+## 性能优化类
 
 - Lithium
 - Smoothboot
 - Sodium
 - Starlight
 - Iris
-##辅助类
+## 辅助类
 
 - Autofish
 - diggusmaximus
@@ -31,7 +31,7 @@
 - Xaero's WorldMap
 - Modmunu
 - Leaf-decay
-##美化类
+## 美化类
 
 - Fallingleaves
 - Particle-rain
