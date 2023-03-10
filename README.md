@@ -1,6 +1,6 @@
 # 简介
-这一个简单的整合包用于快速开始游戏，包含基础的配置
-
+这一个简单的Mincraft整合包用于快速开始游戏，包含基础的配置
+[Gtiee镜像仓库](https://gitee.com/antler-yun/Modpack)
 ## 模组列表
 
 这里列举了所有mod的名字与简单介绍。
@@ -38,3 +38,6 @@
 - Blur
 - CIT Resewn
 - Continuity
+
+###附录
+推荐使用[HMCL](https://hmcl.huangyuhui.net/)启动器
