@@ -4,7 +4,7 @@
 [Github仓库](https://github.com/Antler-yun/Modpack) [蓝奏云：密码0000](https://antler-yun.lanzoup.com/b03q9ls9c)
 ## 模组列表
 
-这里列举了所有mod的名字与简单介绍。
+这里列举了部分模组的分类与名称。
 ## 前置mod
 
 - Fabric API
@@ -17,6 +17,7 @@
 - Lambdnamiclights
 - BetterF3
 - What The Hell Is That
+- Chat Heads
 ## 性能优化类
 
 - Lithium
@@ -32,6 +33,7 @@
 - Xaero's WorldMap
 - Modmunu
 - Leaf-decay
+- imblockerfabric
 ## 美化类
 
 - Fallingleaves
