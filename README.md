@@ -33,7 +33,7 @@
 - Xaero's WorldMap
 - Modmunu
 - Leaf-decay
-- imblockerfabric
+- IMBlockerFabric
 ## 美化类
 
 - Fallingleaves
